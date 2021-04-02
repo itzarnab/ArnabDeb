@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnabdeb800" alt="arnabdeb800" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@realarnabdev" target="blank"><img src="https://img.shields.io/twitter/follow/@realarnabdev?logo=twitter&style=for-the-badge" alt="@realarnabdev" /></a> </p>
-![tumblr_mp2zd5uZvF1qbpwkro2_r1_400](https://user-images.githubusercontent.com/57291806/113385094-0c4a1280-93a5-11eb-92ca-bab0b1b34a83.gif)
-
 
 - 🌱 I’m currently learning **JAVA & PYTHON**
 
